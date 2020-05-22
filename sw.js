@@ -6,7 +6,7 @@ const inmutable_cache = 'inmutable-v1';
 
 const APP_SHELL = [
 
-    '/',
+   // '/',
     'index.html',
     'css/style.css',
     'img/favicon.ico',
